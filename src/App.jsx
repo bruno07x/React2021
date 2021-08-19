@@ -1,5 +1,6 @@
+import { ListPoke } from "./Componentes/ListPoke";
 export const App = () => {
     return (
-        <h1>Poke</h1>
+        <ListPoke></ListPoke>
     );
 }

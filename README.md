@@ -9,3 +9,8 @@
 - Added cross-env -D to set environment variables (NODE_ENV=$ENVIRNMENT_NAME) ['./package.json', './webpack.config.js'];
 - Added styles .css to project (style-loader css-loader -D) ['./webpack.config.js'];
 - Added sass loader to project (node-sass sass-loader -D) ['./webpack.config.js'];
+
+----
+## Conceitos Importantes:
+- Created ListPoke component;
+- Created Pokemon component;
